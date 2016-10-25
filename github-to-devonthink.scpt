@@ -3,7 +3,6 @@
 -- (cc0) 
 -- 2016/@imifos
 
-global globalname
 global downloadedurls
 global allnewnotes
 
