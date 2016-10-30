@@ -6,7 +6,7 @@ A collection of my AppleScripts, for reference, archiving and sharing.
 
 #### github-to-devonthink.scpt
 
-Graps a GIThub project, currently open in FireFox, into a DEVINthink Pro note, assembled into one single indexable PDF.
+Scraps a GIThub project, currently open in FireFox, into a DEVINthink Pro note, assembled into one single indexable PDF.
 
 http://blog.carl.pro/2016/10/scraping-a-github-repository-into-devonthink-using-applescript/
 
