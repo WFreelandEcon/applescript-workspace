@@ -1,6 +1,6 @@
 -- AppleScipt script to scrap a GIThub project, currently open in FireFox,
 -- into one single PDF note in DEVINthink.
--- (cc0) 
+-- License: Free for all, but provided without warranty and guarantee. Use at your own risks.
 -- 2016/@imifos
 
 global downloadedurls
