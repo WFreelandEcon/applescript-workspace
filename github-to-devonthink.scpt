@@ -52,7 +52,7 @@ return
 --
 on merge_all_pages(newwebsiteurl)
 	
-	log "Merge simple pagfes into one document"
+	log "Merge single pages into one document"
 	
 	if (count of allnewnotes) > 0 then
 		tell application id "DNtp"
